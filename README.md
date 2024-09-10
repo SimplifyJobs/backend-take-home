@@ -17,6 +17,8 @@ You will also find these commands useful:
 - `poetry run mock`: This is the mock grading server that you will be consuming as part of the problem.
 - `poetry run pytest`: Run the tests.
 
+If you are using PyCharm, run configurations have been provided for you for both the app and mock server.
+
 ## Challenge
 
 You can find the challenge description in the [`CHALLENGE.md`](https://github.com/SimplifyJobs/backend-take-home/blob/master/CHALLENGE.md) file.
