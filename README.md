@@ -5,11 +5,13 @@ This is a boilerplate project for the Simplify Backend Take-Home assignment. You
 ## Dependencies
 
 - Python 3.12+
-- Poetry v1.8+
+- Poetry 1.8+
 
 ## Getting Started
 
-After installing the dependencies, copy the `.env.example` to `.env`. You will also find these commands useful:
+After installing the dependencies,
+copy the [`.env.example`](https://github.com/SimplifyJobs/backend-take-home/blob/master/.env.example) to `.env`.
+You will also find these commands useful:
 
 - `poetry run dev`: Start the development server that you will be editing.
 - `poetry run mock`: This is the mock grading server that you will be consuming as part of the problem.
@@ -17,4 +19,4 @@ After installing the dependencies, copy the `.env.example` to `.env`. You will a
 
 ## Challenge
 
-You can find the challenge description in the `CHALLENGE.md` file.
+You can find the challenge description in the [`CHALLENGE.md`](https://github.com/SimplifyJobs/backend-take-home/blob/master/CHALLENGE.md) file.

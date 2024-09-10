@@ -277,7 +277,7 @@ Expected Response:
 
 ## Part 3: Implement Scoring in Candidate Model
 
-You've been provided an endpoint that provides candidates a special score based on their skills. Your job is to add this special score to the Candidate schema. The code for this mock server is available in: `takehome/mock.py`
+You've been provided an endpoint that provides candidates a special score based on their skills. Your job is to add this special score to the Candidate schema. The code for this mock server is available in: [`takehome/mock.py`](https://github.com/SimplifyJobs/backend-take-home/blob/master/takehome/mock.py)
 
 1. This API is flaky as it is powered by an ML model that is not always available. You must gracefully handle retries until you get a score.
 2. Given that the API may take time to respond, you may want to parallelize requests to this API and cache results somewhere.
