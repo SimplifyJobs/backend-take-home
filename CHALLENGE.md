@@ -299,7 +299,7 @@ Your solution will be evaluated based on the following criteria:
 
 ## Submission Guidelines
 
-1. Fork this repository or create a new repository with your solution
+1. Fork this repository or create a new repository with your solution. Your solution must be a FastAPI application that can run with the same application name provided in the boilerplate.
 2. Include a SUBMISSION.md file with:
    - Brief explanation of your algorithm and its time complexity
    - Any assumptions you made
