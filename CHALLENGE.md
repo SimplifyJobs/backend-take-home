@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-You are tasked with creating a Candidate Grading System using FastAPI. This system will allow recruiters to manage projects, candidates, and implement a team-matching algorithm.
+You are tasked with creating a Candidate Grading System using FastAPI. This system will allow recruiters to manage projects, candidates, and implement a team-matching algorithm. Your submission must include the final application implemented with this boilerplate, or using your own FastAPI setup.
 
 ## Part 1: FastAPI Application
 
@@ -17,7 +17,7 @@ You are tasked with creating a Candidate Grading System using FastAPI. This syst
    - Unit tests for your API endpoints
    - An endpoint to create ideal teams for candidates (discussed in Part 2)
 
-3. Implement proper logging and error handling throughout the application
+3. Implement proper logging and error handling throughout the application 
 
 ### Sample JSON Structures
 
